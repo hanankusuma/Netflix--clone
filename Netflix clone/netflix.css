@@ -1,0 +1,219 @@
+
+.image1 {
+    width: 1600px;
+    height: 750px;
+    margin-left: -130px;
+}
+.text1 {
+    color: red;
+    margin-top: -340px;
+    margin-left: -520px;
+}
+.text2 {
+    color: white;
+    margin-top: -340px;
+    margin-left: -390px ;
+}
+.text3 {
+    color: white;
+    margin-top: -340px;
+    margin-left: -310px ;
+}
+.text4 {
+    color: white;
+    margin-top: -340px;
+    margin-left: -230px ;
+}
+.text5 {
+    color: white;
+    margin-top: -340px;
+    margin-left: -130px ;
+}
+.text6 {
+    color: white;
+    margin-top: -340px;
+    margin-left: -30px ;
+}
+.text7 {
+    color: white;
+    margin-top: -340px;
+    margin-left: 90px ;
+}
+.text8 {
+    color: red;
+    margin-top: -540px;
+    margin-left: -570px;
+}
+.text9 {
+    color: rgba(255, 255, 255, 0.782);
+    margin-top: -540px;
+    margin-left: -480px;
+}
+.text10 {
+    color: white;
+    text-shadow: 1px 1px 1px black; 
+    margin-top: -380px;
+    margin-left: -190px;
+}
+.text-outline {
+    -webkit-text-stroke: 1px rgb(170, 5, 5); /* untuk browser Webkit seperti Chrome dan Safari */
+    text-stroke: 1px rgb(191, 0, 0); /* untuk browser non-Webkit seperti Firefox dan Edge */
+    color: rgb(255, 255, 255); /* warna teks */
+}
+.super-big {
+    font-size: 4em;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: rgb(255, 255, 255);
+    margin-top: -480px;
+    margin-left: -360px;
+}
+.btn-light {
+    margin-top: -300px;
+    margin-left: -530px;
+    width: 130px;
+    height: 50px;
+    margin-left: -500px;
+}
+.text11 {
+    margin-top: -300px;
+    margin-left: -390px;
+    color: rgba(255, 255, 255, 0.818);
+}
+.btn-secondary {
+    color: rgb(255, 255, 255);
+    margin-top: -300px;
+    margin-left: -340px;
+    width: 160px;
+    height: 50px;
+    opacity: 0.8;
+}
+.bi-search {
+    margin-top: -340px;
+    color: white;
+    margin-left: 500px
+}
+.text12 {
+    margin-top: -340px;
+    color: white;
+    margin-left: 550px
+}
+.bi-bell {
+    margin-top: -340px;
+    color: white;
+    margin-left: 600px
+} 
+.rounded {
+    width: 30px;
+    height: 30px;
+    margin-top: -340px;
+    margin-left: 650px
+}
+.text13 {
+    color: white;
+    margin-top: 340px;
+    margin-left: -450px;
+    text-shadow: 2px 1px 2px black;
+}
+.ironman {
+    width: 270px;
+    margin-top: 450px;
+    margin-left: -450px;
+}
+.planetapes {
+    width: 270px;
+    margin-top: 450px;
+    margin-left: -170px;
+}
+.jumanji {
+    width: 270px;
+    margin-top: 450px;
+    margin-left: 110px;
+}
+.resident {
+    width: 270px;
+    margin-top: 450px;
+    margin-left: 390px;
+}
+.morbius {
+    width: 270px;
+    margin-top: 450px;
+    margin-left: 670px;
+}
+.venom {
+    width: 270px;
+    margin-top: 450px;
+    margin-left: -730px;
+}
+.text14 {
+    margin-top: 110px;
+    margin-left: -20px;
+    color: white;
+}
+.allofus {
+    width: 270px;
+    margin-top: 10px;
+    margin-left: -20px;
+   
+}
+.evildead {
+    width: 270px;
+    margin-top: -22px;
+    margin-left: 17px;
+}
+.peaky {
+    width: 270px;
+    margin-top: -22px;
+    margin-left: -10px;
+}
+.alice {
+    width: 275px;
+    margin-top: -22px;
+    margin-left: 10px;
+}
+.batman {
+    width: 275px;
+    margin-top: -240px;
+    margin-left: 1110px;
+}
+.chucky {
+     width: 340px;
+    margin-top: -250px;
+    margin-left: -380px;
+   
+}
+.text15 {
+    margin-top: 850px;
+    margin-left: -500px;
+    color: white;
+}
+.conjuring {
+    margin-top: 40px;
+    margin-left: -280px;
+    width: 270px;
+}
+.wednesday {
+    margin-top: 40px;
+    margin-left: -290px;
+    width: 270px;
+}
+.maleficent {
+    margin-top: 40px;
+    margin-left: -290px;
+    width: 270px;
+}
+.sherlock {
+    margin-top: 40px;
+    margin-left: -300px;
+    width: 270px;
+}
+.potter {
+    margin-top: -240px;
+    margin-left: 830px;
+    width: 270px;
+}
+.evildead2 {
+    margin-top: -240px;
+    margin-left: 810px;
+    width: 270px;
+} 
